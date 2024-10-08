@@ -1,4 +1,4 @@
-import { Box, Container, Stack, Typography, Chip, Button } from "@mui/material";
+import { Stack, Chip } from "@mui/material";
 
 interface ChipViewProps {
   names: string[];

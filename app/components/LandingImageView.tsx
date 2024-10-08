@@ -1,4 +1,4 @@
-import { Box, Container, Stack, Typography, Chip, Button } from "@mui/material";
+import { Box } from "@mui/material";
 import Image from "next/image";
 
 export const LandingImageView = () => {
@@ -18,17 +18,6 @@ export const LandingImageView = () => {
         height={400}
         style={{ maxWidth: "100%", height: "auto" }}
       />
-
-      {/* <Box
-        component="img"
-        sx={{
-          width: "100%",
-          height: "auto",
-          maxWidth: "600px",
-        }}
-        alt="Image"
-        src="/boy_working.svg"
-      /> */}
     </Box>
   );
 };

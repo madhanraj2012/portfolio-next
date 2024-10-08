@@ -1,4 +1,4 @@
-import { Box, Container, Stack, Typography, Button } from "@mui/material";
+import { Box, Container, Stack } from "@mui/material";
 import { ActionButton } from "./components/ActionButton";
 import { ChipView } from "./components/ChipView";
 import { LandingImageView } from "./components/LandingImageView";

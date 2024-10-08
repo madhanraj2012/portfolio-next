@@ -1,11 +1,4 @@
-import {
-  Box,
-  Card,
-  CardContent,
-  Container,
-  Stack,
-  Typography,
-} from "@mui/material";
+import { Box, Card, CardContent, Container, Stack } from "@mui/material";
 import { NavBar } from "../components/NavBar";
 import { ProjectImageView } from "../components/ProjectImageView";
 import { ActionButton } from "../components/ActionButton";
