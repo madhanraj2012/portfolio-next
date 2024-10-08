@@ -37,7 +37,7 @@ const HeaderButtons = () => {
 };
 
 interface LinkButtonProps {
-  Icon: React.ComponentType<{}>;
+  Icon: React.ElementType;
   href?: string;
 }
 
